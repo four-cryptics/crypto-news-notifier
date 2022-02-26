@@ -6,6 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+.vscode/
+
 # Exclude javascript files since we are using typescript
 *.js
 
