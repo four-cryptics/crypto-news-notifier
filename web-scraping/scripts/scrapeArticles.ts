@@ -6,16 +6,16 @@ import { setup } from '../utils/puppeteer_utils'
 import { Site } from '../utils/Site'
 import { Article } from '../utils/Article'
 
+//let siteList = await readIfFileExists();
 const sites: Site[] = []
-const site = new Site('https://cryptonews.com/')
-site.type = 'crypto-news'
-site.validity = 2
-sites.push(site)
+const site1 = new Site('https://cryptonews.com/')
+site1.addElement("body > main > section:nth-child(3) > div > div > div.col-12.col-lg-9 > section > article > div > div.col-12.col-md-7.column-45__right.d-flex.flex-column.justify-content-center > a")
+site1.type = 'crypto-news'
+site1.validity = 2
 
-scrape(site)
+scrape(site1)
 
 async function scrape(site: Site) {
-  let siteList = await readIfFileExists();
   // console.log(site)
   let browser = await setup();
   const page = await browser.newPage();
@@ -27,9 +27,12 @@ async function scrape(site: Site) {
   
   // Get webpage elements
   await page.goto(site.url);
-  console.log(site.url)
-  const articles = await page.evaluate(() => Array.from(document.querySelectorAll('body > main > section:nth-child(3) > div > div > div > section > article > div > div > a'), element => element.innerHTML));
+  const articles = await page.evaluate((site: Site) => Array.from(document.querySelectorAll(site.elements[0]), element => element.innerHTML), site);
   console.log(articles);
+  for(let article of articles) {
+    site.addArticle(article);
+  }
+  sites.push(site);
   // const quotes = await page.evaluate(() => Array.from(document.querySelectorAll('#article_content > p > strong'), element => element.innerHTML));
   // // const authors = await page.evaluate(() => Array.from(document.querySelectorAll('div > div > div.single-post-wrap.entry-content > p > strong'), element => element.innerHTML));
   // for(let i = 0; i < quotes.length; i++) {
@@ -46,10 +49,10 @@ async function scrape(site: Site) {
   //   }
   // }
   // articleList = 
-  // fs.writeFile('../data/articles.json', JSON.stringify(siteList, null, 4), function (err) {
-  //   if (err) throw err;
-  //   console.log('File is created successfully.');
-  // });
+  fs.writeFile('./data/news_sites.json', JSON.stringify(sites, null, 4), function (err) {
+    if (err) throw err;
+    console.log('File is created successfully.');
+  });
   await page.close();
   await browser.close();
 }
