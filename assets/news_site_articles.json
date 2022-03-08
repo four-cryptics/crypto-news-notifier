@@ -2,21 +2,59 @@
  {
   "id": 0,
   "url": "https://cryptonews.com/",
+  "selectors": [
+   "body \u003e main \u003e section:nth-child(3) \u003e div \u003e div \u003e div.col-12.col-lg-9 \u003e section \u003e article \u003e div \u003e div.col-12.col-md-7.column-45__right.d-flex.flex-column.justify-content-center \u003e a"
+  ],
   "articles": [
    {
-    "title": " Bitcoin News Ukraine Crypto Donations Reach a Plateau; 40% of the Country's Military Suppliers Accept Crypto "
+    "id": 0,
+    "title": " Bitcoin News Ukraine Crypto Donations Reach a Plateau; 40% of the Country's Military Suppliers Accept Crypto ",
+    "buzzwords": []
    },
    {
-    "title": " Bitcoin News Crypto Market Tries to Recover With Ukraine Negotiations in Focus; Gold \u0026 Commodities Rise "
+    "id": 1,
+    "title": " Bitcoin News Crypto Market Tries to Recover With Ukraine Negotiations in Focus; Gold \u0026 Commodities Rise ",
+    "buzzwords": []
    },
    {
-    "title": " Bitcoin News FTX Europe, Binance's Crypto Payments, Dogecoin's Trademark + More News "
+    "id": 2,
+    "title": " Bitcoin News FTX Europe, Binance's Crypto Payments, Dogecoin's Trademark + More News ",
+    "buzzwords": []
    },
    {
-    "title": " Bitcoin News Crypto Can Better Deter Sanction Evasion Compared to TradFi - Coinbase "
+    "id": 3,
+    "title": " Bitcoin News Crypto Can Better Deter Sanction Evasion Compared to TradFi - Coinbase ",
+    "buzzwords": []
    },
    {
-    "title": " Bitcoin News Trezor Halted Wallet Shipments to Russia and Ukraine "
+    "id": 4,
+    "title": " Bitcoin News Trezor Halted Wallet Shipments to Russia and Ukraine ",
+    "buzzwords": []
+   },
+   {
+    "id": 5,
+    "title": " Bitcoin News Ukraine War Raises Questions About the 'End of Monetary Regime' and Role of Bitcoin ",
+    "buzzwords": []
+   },
+   {
+    "id": 6,
+    "title": " Bitcoin News Russia Sanctions Means Countries May Transition to Bitcoin Reserves - Pantera’s CEO ",
+    "buzzwords": []
+   },
+   {
+    "id": 7,
+    "title": " Altcoin News 'Russian Ethereum', Waves, Almost Triples Since Ukraine War Began ",
+    "buzzwords": []
+   },
+   {
+    "id": 8,
+    "title": " Altcoin News Justin Sun Spoke of ‘Cooperation with Russia’ After Donating Funds to Ukraine ",
+    "buzzwords": []
+   },
+   {
+    "id": 9,
+    "title": " Ethereum News Bitcoin and Ethereum Inch Higher, ZEC, SNX, and THETA Accelerate ",
+    "buzzwords": []
    }
   ]
  }
