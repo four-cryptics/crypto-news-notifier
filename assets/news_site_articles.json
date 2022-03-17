@@ -1,0 +1,660 @@
+[
+ {
+  "id": 0,
+  "url": "https://cryptonews.com/",
+  "selectors": [
+   "article \u003e div \u003e div \u003e a"
+  ],
+  "articles": [
+   {
+    "id": 0,
+    "title": " Bitcoin News Ukraine Crypto Donations Reach a Plateau; 40% of the Country's Military Suppliers Accept Crypto "
+   },
+   {
+    "id": 1,
+    "title": " Bitcoin News Crypto Market Tries to Recover With Ukraine Negotiations in Focus; Gold \u0026 Commodities Rise "
+   },
+   {
+    "id": 2,
+    "title": " Bitcoin News FTX Europe, Binance's Crypto Payments, Dogecoin's Trademark + More News "
+   },
+   {
+    "id": 3,
+    "title": " Bitcoin News Crypto Can Better Deter Sanction Evasion Compared to TradFi - Coinbase "
+   },
+   {
+    "id": 4,
+    "title": " Bitcoin News Trezor Halted Wallet Shipments to Russia and Ukraine "
+   },
+   {
+    "id": 5,
+    "title": " Bitcoin News Ukraine War Raises Questions About the 'End of Monetary Regime' and Role of Bitcoin "
+   },
+   {
+    "id": 6,
+    "title": " Bitcoin News Russia Sanctions Means Countries May Transition to Bitcoin Reserves - Pantera’s CEO "
+   },
+   {
+    "id": 7,
+    "title": " Altcoin News 'Russian Ethereum', Waves, Almost Triples Since Ukraine War Began "
+   },
+   {
+    "id": 8,
+    "title": " Altcoin News Justin Sun Spoke of ‘Cooperation with Russia’ After Donating Funds to Ukraine "
+   },
+   {
+    "id": 9,
+    "title": " Ethereum News Bitcoin and Ethereum Inch Higher, ZEC, SNX, and THETA Accelerate "
+   },
+   {
+    "id": 10,
+    "title": " Bitcoin News Ukraine Deputy Minister Praises Crypto Efficiency; Donations Spent on Military Necessities "
+   },
+   {
+    "id": 11,
+    "title": " Bitcoin News US Treasury Issued Then Deleted Announcement Saying New Crypto Regulatory Measures Are Incoming "
+   },
+   {
+    "id": 12,
+    "title": " Bitcoin News Bitcoin Jumps Above USD 41K, Ethereum Accelerates, LUNA and Monero Rally "
+   },
+   {
+    "id": 13,
+    "title": " Bitcoin News Crypto Vote Could Be Key as South Korea Chooses its Next President "
+   },
+   {
+    "id": 14,
+    "title": " Bitcoin News El Salvador's Bukele Says 52 Bitcoin Reforms Are ‘In the Oven', Critics Hit Out at Lack of Adoption Benefits "
+   },
+   {
+    "id": 15,
+    "title": " Bitcoin News Joe Biden's Executive Order on Crypto Calls for Consumer Protection, CBDC Consideration, Tech Innovation Support "
+   },
+   {
+    "id": 16,
+    "title": " Bitcoin News Bitcoin Rally Gets Support From ‘Watershed’ Executive Order, Rising Stock Market "
+   },
+   {
+    "id": 17,
+    "title": " Bitcoin News EU Clarifies Crypto-Related Sanctions on Russia \u0026 Belarus, But Questions Remain "
+   },
+   {
+    "id": 18,
+    "title": " Bitcoin News State Street's Crypto Custody, USD 100M DeFi Cake, Binance's SEPA + More News "
+   },
+   {
+    "id": 19,
+    "title": " NFT News Ukraine Outlets Offer Exclusive Content Behind an NFT Paywall "
+   },
+   {
+    "id": 20,
+    "title": " Bitcoin News Japanese Crypto Exchanges to Enforce FATF’s Travel Rule Next Month "
+   },
+   {
+    "id": 21,
+    "title": " Bitcoin News Kraken to Distribute USD 10M to Ukrainian Clients, Total Donations 'Close to USD 100M' "
+   },
+   {
+    "id": 22,
+    "title": " Bitcoin News Bitcoin Slips as US Inflation Jumps as Expected, ECB Slows Asset Purchases "
+   },
+   {
+    "id": 23,
+    "title": " Ethereum News Final Countdown to Ethereum Merge Begins as Configs for the Last Public Testnet Go Live "
+   },
+   {
+    "id": 24,
+    "title": " Bitcoin News Crypto Community is Divided on Biden’s Crypto Executive Order "
+   },
+   {
+    "id": 25,
+    "title": " Bitcoin News How South Korea’s Next President Might Change Crypto, Economy \u0026 Politics in East Asia "
+   },
+   {
+    "id": 26,
+    "title": " Bitcoin News These Are the Latest Crypto Regulatory Moves by US and EU "
+   },
+   {
+    "id": 27,
+    "title": " Features How to Buy Bitcoin Without an ID in 2022 "
+   },
+   {
+    "id": 28,
+    "title": " Bitcoin News Bitcoin, Ethereum Slide, Liquidations Soar as Market Awaits US Inflation Numbers "
+   },
+   {
+    "id": 29,
+    "title": " Bitcoin News Bitcoin and Ethereum Trim Gains, RUNE and WAVES Rally "
+   },
+   {
+    "id": 30,
+    "title": " Bitcoin News Bitcoin and Ethereum Gain Bullish Momentum, Altcoins Surge "
+   },
+   {
+    "id": 31,
+    "title": " Bitcoin News Russian Banks Eye CNY Solution as Central Bank Bars Forex Sales; New Sanctions Approved "
+   },
+   {
+    "id": 32,
+    "title": " Ethereum News ETH Rises with Broader Market as Ethereum Fees Hit a 7-Month Low "
+   },
+   {
+    "id": 33,
+    "title": " Ethereum News Devs Publish Bitcoin, Ethereum Donation Guidelines for Russians Who Support Ukraine "
+   },
+   {
+    "id": 34,
+    "title": " Ethereum News Bitcoin and Ethereum Consolidate, Best Performer WAVES Trims Gains "
+   },
+   {
+    "id": 35,
+    "title": " Ethereum News Decentralization Debate Heats Up Again as MetaMask, OpenSea Block Users "
+   },
+   {
+    "id": 36,
+    "title": " Ethereum News Bitcoin and Ethereum Try to Recover, ATOM Moves Higher "
+   },
+   {
+    "id": 37,
+    "title": " Ethereum News Bitcoin and Ethereum Consolidate, OKB Jumps "
+   },
+   {
+    "id": 38,
+    "title": " Ethereum News Bitcoin and Ethereum Consolidate, SOL Inches Higher "
+   },
+   {
+    "id": 39,
+    "title": " NFT News NFT Market Cools Down As Ukraine War Pushes Investors Toward Safe-Haven Assets "
+   },
+   {
+    "id": 40,
+    "title": " NFT News Ukraine Cancels Crypto Airdrop, Says It Plans to Issue NFTs Instead "
+   },
+   {
+    "id": 41,
+    "title": " NFT News US Regulator Launches Probe Into NFT Sales "
+   },
+   {
+    "id": 42,
+    "title": " NFT News South Korean Court Rejects Challenge to Strict Crypto, NFT Gaming Law "
+   },
+   {
+    "id": 43,
+    "title": " NFT News Metaverse Land Prices Are Driven by These Five Factors, Says Hedge Fund Investor "
+   },
+   {
+    "id": 44,
+    "title": " NFT News OpenSea's Trading Volume Remains in a Downtrend Amid Recent Attacks "
+   },
+   {
+    "id": 45,
+    "title": " NFT News Texas Man Sues OpenSea Over Stolen NFT, Asks for Over USD 1M in Damages "
+   },
+   {
+    "id": 46,
+    "title": " Altcoin News Bitcoin and Ethereum Struggle to Recover, Altcoins in Red "
+   },
+   {
+    "id": 47,
+    "title": " Altcoin News BNB Won't Hit ATH This Year but Might Reach USD 2,500 by 2030 – Survey "
+   },
+   {
+    "id": 48,
+    "title": " Features 5 Ways Inexperienced Crypto Investors Can Weather Highly Volatile Markets "
+   },
+   {
+    "id": 49,
+    "title": " Altcoin News Crypto Listing and Delisting Announcements: Week 10 "
+   },
+   {
+    "id": 50,
+    "title": " Altcoin News Crypto Market Sentiment Moves Up; BTC on Top, ATOM Sees Biggest Improvement "
+   },
+   {
+    "id": 51,
+    "title": " DeFi News Fantom, Other DeFi Tokens Shaken as Top DeFi Developer Andre Cronje Quits "
+   },
+   {
+    "id": 52,
+    "title": " Opinions Could the Ukraine Invasion Spark a Global Financial Crisis? "
+   },
+   {
+    "id": 53,
+    "title": " Features Greener March, Surrendered Tanks, Hiked Rates and 20 Crypto Jokes "
+   },
+   {
+    "id": 54,
+    "title": " Opinions Utility Is the Future of NFTs "
+   },
+   {
+    "id": 55,
+    "title": " Altcoin News China’s Digital Yuan Set for Local Adoption, Airport, Banking Drives "
+   },
+   {
+    "id": 56,
+    "title": " Altcoin News UK Advertising Watchdog Bans Floki Inu London Ad Campaign "
+   },
+   {
+    "id": 57,
+    "title": " Altcoin News These Coins Have Moved the Most Since the Ukraine War Started "
+   },
+   {
+    "id": 58,
+    "title": " Altcoin News Coin Race: Top Winners/Losers of February; Is Crypto Spring Coming? "
+   },
+   {
+    "id": 59,
+    "title": " Altcoin News Ukraine Adds More Crypto Options, 'Teases' Airdrop; Platform Selling NFTs for USD 10 "
+   },
+   {
+    "id": 60,
+    "title": " NFT News Ukrainian Government to Launch an NFT Collection as a 'War Museum' "
+   },
+   {
+    "id": 61,
+    "title": " Bitcoin News Elon Musk Won't Sell Bitcoin, Ethereum, Dogecoins as Inflation Soars and Recession Risk Grows "
+   },
+   {
+    "id": 62,
+    "title": " Bitcoin News Ukraine War Throws Timing of El Salvador’s Bitcoin Bond Debut into Doubt "
+   },
+   {
+    "id": 63,
+    "title": " Ethereum News Bitcoin and Ethereum Look for Direction, LUNA and RUNE Accelerate "
+   },
+   {
+    "id": 64,
+    "title": " Bitcoin News EU Crypto Industry Calls to Arms as Bitcoin \u0026 Ethereum Ban in Cards Again "
+   },
+   {
+    "id": 65,
+    "title": " Bitcoin News Japanese Crypto Exchanges Told to Block Sanctioned Russians’ Crypto Transactions "
+   },
+   {
+    "id": 66,
+    "title": " Bitcoin News Bitcoin and Ethereum Stuck in a Range, LUNA Inches Higher "
+   },
+   {
+    "id": 67,
+    "title": " Bitcoin News South Korea’s Next President Might Create Parity for Crypto and Stock Market Traders "
+   },
+   {
+    "id": 68,
+    "title": " Bitcoin News Coinbase Launches Subscription-Based 'Zero-Fee' Trading in Beta "
+   },
+   {
+    "id": 69,
+    "title": " Bitcoin News Big Short Against Tether, CBDC Giweaway, New NFT Collections + More News "
+   },
+   {
+    "id": 70,
+    "title": " Bitcoin News As New Crypto Sanction Screening Tool Launched, Tornado Cash Keeps Mixing and FBI Chimes In "
+   },
+   {
+    "id": 71,
+    "title": " Bitcoin News Stripe’s Support for Crypto is Back, NFT Support Launched As Well "
+   },
+   {
+    "id": 72,
+    "title": " Bitcoin News Bitcoin and Ethereum Increased Losses, ZEC and STX Rally "
+   },
+   {
+    "id": 73,
+    "title": " Ethereum News Bitcoin and Ethereum Try to Recover, Smaller Altcoins Rally "
+   },
+   {
+    "id": 74,
+    "title": " NFT News Check These Ukraine NFT Projects Against the Russian Invasion "
+   },
+   {
+    "id": 75,
+    "title": " NFT News eBay to Launch ‘Digital Wallet’, Teases 'Fractionalization' "
+   },
+   {
+    "id": 76,
+    "title": " Features Price Rollercoaster, Sun’s Double-Play, Biden’s Order and 20 Crypto Jokes "
+   },
+   {
+    "id": 77,
+    "title": " Features How to Use Layer-2 Solutions to Save on Ethereum Fees: StarkWare "
+   },
+   {
+    "id": 78,
+    "title": " Opinions Ukraine War and the Financial Markets: the Winners and Losers So Far "
+   },
+   {
+    "id": 79,
+    "title": " Altcoin News The Best- and Worst-Performing Coins in the Second Week of the Ukraine War "
+   },
+   {
+    "id": 80,
+    "title": " Altcoin News Ukraine Tether Trading Volume Sees Strong Growth, Persistent Premiums "
+   },
+   {
+    "id": 81,
+    "title": " Opinions Is Russia Really About to Cut Itself Off from the Internet? "
+   },
+   {
+    "id": 82,
+    "title": " Altcoin News Caribbean CBDC Functional Again After Two-Month Outage "
+   },
+   {
+    "id": 83,
+    "title": " People In Crypto Ethereum's Buterin Reiterates Support for Ukraine, Educates Chinese on Patriotism "
+   },
+   {
+    "id": 84,
+    "title": " Altcoin News XRP Pumps and Drops After a ‘Huge Win’ for Ripple "
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "url": "https://www.coindesk.com/",
+  "selectors": [
+   "h6 \u003e a.headline"
+  ],
+  "articles": [
+   {
+    "id": 0,
+    "title": "US Inflation Rises to 7.9% in February, Fresh 4-Decade High"
+   },
+   {
+    "id": 1,
+    "title": "How Blockchain Is Bridging the Trade Finance Gap"
+   },
+   {
+    "id": 2,
+    "title": "Biden’s Executive Order on Crypto Met With Relief From Key Industry Players"
+   },
+   {
+    "id": 3,
+    "title": "First DOGE, Now ‘Meataverse’: Slim Jim Trademark Filings Reveal Metaverse Plans"
+   },
+   {
+    "id": 4,
+    "title": "A Watershed Moment: Everything You Need to Know About Biden’s Crypto Executive Order"
+   },
+   {
+    "id": 5,
+    "title": "Playing to Win: How Gamers Are Using Crypto and Where the Market Is Going"
+   },
+   {
+    "id": 6,
+    "title": "Crypto News Roundup for March 9, 2022"
+   },
+   {
+    "id": 7,
+    "title": "America's Quiet Default"
+   },
+   {
+    "id": 8,
+    "title": "Crypto Romance Scams: Don't Fall for These Dating App Swindlers"
+   },
+   {
+    "id": 9,
+    "title": "Virtual Beers and Digital Orgasms: Welcome to the Age of Metaverse Commerce"
+   },
+   {
+    "id": 10,
+    "title": "First Mover Americas: Bitcoin Awaits Triangle Breakout, Focus on Dollar"
+   },
+   {
+    "id": 11,
+    "title": "Bitcoin Reverses Wednesday's Gain Ahead of ECB Rate Decision, US Inflation"
+   },
+   {
+    "id": 12,
+    "title": "First Mover Asia: Signs Point Upward for Crypto in India and South Korea; Bitcoin and Ether Soar on US Executive Order  "
+   },
+   {
+    "id": 13,
+    "title": "Inflation, Tracked by Bitcoiners, Keeps Accelerating, and It Hasn't Even Peaked"
+   },
+   {
+    "id": 14,
+    "title": "Market Wrap: Cryptos Rise After Biden's Executive Order; Sentiment Still Mixed"
+   },
+   {
+    "id": 15,
+    "title": "Why Decentralized Exchanges Are Important in the Crypto Economy"
+   },
+   {
+    "id": 16,
+    "title": "The ENS Saga and the Pitfalls of DAO Democracy"
+   },
+   {
+    "id": 17,
+    "title": "The Promise of 'Stateless Ethereum'"
+   },
+   {
+    "id": 18,
+    "title": "Profit Booking in Bitcoin, Ether After Biden Issues Crypto Order "
+   },
+   {
+    "id": 19,
+    "title": "Kava Deploys Ethereum Developer Support on Testnet"
+   },
+   {
+    "id": 20,
+    "title": "What’s a ‘Long-Term’ Time Horizon for Crypto?"
+   },
+   {
+    "id": 21,
+    "title": "ICON’s ICX Rockets 70% as Crypto-Friendly Candidate Wins South Korean Presidential Election"
+   },
+   {
+    "id": 22,
+    "title": "Bitcoin Enters Resistance Zone Between $40K-$45K"
+   },
+   {
+    "id": 23,
+    "title": "Paxos Wins Regulatory Approval From Monetary Authority of Singapore"
+   },
+   {
+    "id": 24,
+    "title": "Hedera’s HBAR Foundation Launches $100M Sustainable Impact Fund "
+   },
+   {
+    "id": 25,
+    "title": "Nordic Fintech Lunar Raises $77M, Builds Crypto Trading Platform"
+   },
+   {
+    "id": 26,
+    "title": "Elrond Network Acquires Payments Firm Twispay, Wins E-Money License"
+   },
+   {
+    "id": 27,
+    "title": "FTX Hires Former WB Gaming Exec to Lead Gaming Partnerships"
+   },
+   {
+    "id": 28,
+    "title": "THORChain’s RUNE Surges 37% After DeFi Synthetic Assets Goes Live"
+   },
+   {
+    "id": 29,
+    "title": "JustCarbon, Likvidi Launch Blockchain Markets for Carbon Credits"
+   },
+   {
+    "id": 30,
+    "title": "Conservative Candidate Yoon Suk-Yeol Wins South Korea’s Presidential Election"
+   },
+   {
+    "id": 31,
+    "title": "Final BitMEX Co-Founder Pleads Guilty to US Violations"
+   },
+   {
+    "id": 32,
+    "title": "Here's the Full Text of Biden's Executive Order on Cryptocurrency"
+   },
+   {
+    "id": 33,
+    "title": "US Claims Bitcoin Mining Crown Following China Crackdown"
+   },
+   {
+    "id": 34,
+    "title": "CoinDesk 2021 Annual Crypto Review"
+   },
+   {
+    "id": 35,
+    "title": "Building on the News: Introducing Layer 2 by CoinDesk"
+   },
+   {
+    "id": 36,
+    "title": "The Investor’s Perspective on the Bitcoin Taproot Upgrade"
+   },
+   {
+    "id": 37,
+    "title": "First Mover Asia: Signs Point Upward for Crypto in India and South Korea; Bitcoin and Ether Soar on US Executive Order "
+   },
+   {
+    "id": 38,
+    "title": "Okcoin, Stacks Launch $165M Pledge to Support Bitcoin-Related Projects"
+   },
+   {
+    "id": 39,
+    "title": "Icon’s ICX Rockets 70% as Crypto-Friendly Candidate Wins South Korean Presidential Election"
+   },
+   {
+    "id": 40,
+    "title": "Bitcoin-Banning Measure Seen Too Close to Call in Monday's EU Parliament Vote"
+   },
+   {
+    "id": 41,
+    "title": "Dogecoin Spikes Briefly After Musk Says He Won't Sell His Crypto Holdings"
+   },
+   {
+    "id": 42,
+    "title": "Fed's Powell Set to Remove Punch Bowl That Lubricated Crypto Party"
+   },
+   {
+    "id": 43,
+    "title": "The First Crypto War May Lead to Lasting Peace"
+   },
+   {
+    "id": 44,
+    "title": "The True Implications of Seizing Russia’s Foreign Reserves"
+   },
+   {
+    "id": 45,
+    "title": "Can Cryptocurrency Replace Loyalty Points?"
+   },
+   {
+    "id": 46,
+    "title": "Elizabeth Warren and the Mysticism of the Crypto-Skeptics"
+   },
+   {
+    "id": 47,
+    "title": "The Looming Recession Narrative Is Growing"
+   },
+   {
+    "id": 48,
+    "title": "Bitcoin Again Bounces Off 'Cloud' Support; Resistance at $42.6K"
+   },
+   {
+    "id": 49,
+    "title": "Inflation Worries Top Concerns Before Fed Meeting, Spur Musk Comment "
+   },
+   {
+    "id": 50,
+    "title": "First Mover Asia: South Korea Election Made Crypto a Big Issue, but There's No Guarantee of a Follow-Through; Cryptos Suffer Weekend Decline"
+   },
+   {
+    "id": 51,
+    "title": "Bitcoin: Gold 2.0? Try Reserve Asset 3.0"
+   },
+   {
+    "id": 52,
+    "title": "Market Wrap: Cryptos Mixed Amid Global Uncertainty"
+   },
+   {
+    "id": 53,
+    "title": "Bitcoin Miners’ February Production Fell on Shorter Month, Winter Storm"
+   },
+   {
+    "id": 54,
+    "title": "Evmos Looks to Get Back on Track After Failed Launch"
+   },
+   {
+    "id": 55,
+    "title": "We Can Vote Away Your Money for Free: The Implications of Juno Prop 16"
+   },
+   {
+    "id": 56,
+    "title": "First Mover Americas: Ether-Bitcoin Volatility Spread Slides, Bitfinex Shorts Surge"
+   },
+   {
+    "id": 57,
+    "title": "10M Ether Now Locked on Eth 2.0 Staking Contract"
+   },
+   {
+    "id": 58,
+    "title": "Why Invest in Cryptocurrency?"
+   },
+   {
+    "id": 59,
+    "title": "US Department of Labor Urges ‘Extreme Care’ Before Adding Crypto to 401(k) Plans"
+   },
+   {
+    "id": 60,
+    "title": "Cuál es un horizonte de largo plazo para invertir en cripto"
+   },
+   {
+    "id": 61,
+    "title": "Solana-Based NFT Marketplace Magic Eden Raises $27M Series A "
+   },
+   {
+    "id": 62,
+    "title": "This Mila Kunis-Backed TV Show Lets NFT Holders Choose the Plot"
+   },
+   {
+    "id": 63,
+    "title": "Digital Assets Can Boost Revenue Streams for Sports Teams, PwC Says "
+   },
+   {
+    "id": 64,
+    "title": "CoinShares Expands FlowBank Stake With $26.5M Purchase"
+   },
+   {
+    "id": 65,
+    "title": "Bitmain Says New Liquid Cooling Miner Is its Most Power Efficient Model to Date"
+   },
+   {
+    "id": 66,
+    "title": "BAYC Backer Yuga Labs Buys CryptoPunks and Meebits"
+   },
+   {
+    "id": 67,
+    "title": "Bitcoin Jumps to $40K as Putin Sees Positive Shift in Ukraine Talks"
+   },
+   {
+    "id": 68,
+    "title": "Japan Lays Outs Penalties on Crypto Exchanges for Non-Compliance With Russia Sanctions: Report"
+   },
+   {
+    "id": 69,
+    "title": "Limiting Proof-of-Work Crypto Back on the Table as EU Parliament Prepares Virtual Currencies Vote "
+   },
+   {
+    "id": 70,
+    "title": "Treasury Department Issues Guidance on Using Crypto to Evade Sanctions"
+   },
+   {
+    "id": 71,
+    "title": "Bitcoin Again Bounces Off 'Cloud' Support, Resistance at $42.6K"
+   },
+   {
+    "id": 72,
+    "title": "First Mover Americas: Bitcoin's Price Bounce Stalls as 10-year Yield Hits 32-Month High"
+   },
+   {
+    "id": 73,
+    "title": "Ethereum Staking Protocol Swell Raises $3.75M as Locked ETH Tops $26B"
+   },
+   {
+    "id": 74,
+    "title": "Digital Assets Can Boost Revenue for Sports Teams, PwC Says "
+   }
+  ]
+ }
+]
